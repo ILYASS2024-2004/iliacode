@@ -1,2 +1,5 @@
 bonjour.py
 test.py
+.venv
+__pycache__
+.pytest_cache
